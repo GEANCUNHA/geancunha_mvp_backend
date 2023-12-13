@@ -7,6 +7,7 @@ Para uma melhor experiencia na execução da aplicação, obtenha tambem os arqu
 
 ## Como executar 
 
+Importante retirar do nome do diretorio o termo "-main" apos dowload do repositorio do github, para garantir o funcionamento da aplicação. O nome do repositorio deve ficar:geancunha_mvp_backend
 
 Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
 Após clonar o repositório, é necessário ir ao diretório raiz do projeto de backend, pelo terminal, para poder executar os comandos descritos abaixo.
